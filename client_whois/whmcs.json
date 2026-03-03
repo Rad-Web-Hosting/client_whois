@@ -1,0 +1,36 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-addons",
+    "name": "client_whois",
+	"version": "1.1.0",
+    "license": "MIT",
+    "category": "utilities",
+    "description": {
+        "name": "Client WHOIS",
+        "tagline": "Client-facing WHOIS lookups for your WHMCS.",
+        "long": "Provides a ready-made WHOIS lookup interface for WHMCS front-end. Offer your clients a front-end WHOIS lookup directly on your WHMCS installation.",
+        "features": [
+            "Provide client-facing user interface",
+            "Customize WHOIS servers for lookups",
+            "Provide structure for module commands"
+        ]
+    },
+    "marketplace": {
+        "url": "https:\/\/marketplace.whmcs.com\/product\/6108"
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/radwebhosting.com\/", 
+        "email": "support@radwebhosting.com", 
+        "support_url": "https:\/\/radwebhosting.com\/support",
+        "docs_url": "https:\/\/radwebhosting.com\/client_area\/knowledgebase.php"
+    },
+    "authors": [
+        {
+            "name": "Rad Web Hosting",
+            "homepage": "https:\/\/radwebhosting.com\/"
+        }
+    ]
+}

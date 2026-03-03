@@ -1,0 +1,87 @@
+.client-whois-wrap {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.client-whois-title {
+  margin: 0 0 14px 0;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.client-whois-form {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.12);
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.client-whois-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.client-whois-row {
+  display: flex;
+  gap: 10px;
+  align-items: stretch;
+}
+
+.client-whois-input {
+  flex: 1;
+  border: 1px solid rgba(0,0,0,.20);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 16px;
+}
+
+.client-whois-btn {
+  border: 0;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.client-whois-hint {
+  margin-top: 8px;
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+.client-whois-alert {
+  margin-top: 14px;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,.12);
+}
+
+.client-whois-alert-error {
+  background: rgba(255, 0, 0, 0.06);
+  border-color: rgba(255, 0, 0, 0.25);
+}
+
+.client-whois-result {
+  margin-top: 14px;
+}
+
+.client-whois-subtitle {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.client-whois-pre {
+  background: #0b1020;
+  color: #eef2ff;
+  border-radius: 10px;
+  padding: 14px;
+  overflow: auto;
+  max-height: 520px;
+  font-size: 13px;
+  line-height: 1.45;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
