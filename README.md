@@ -1,2 +1,2 @@
 # client_whois
-Client-facing WHOIS lookup interface for WHMCS
+Client WHOIS is an addon module for WHMCS that provides client-facing WHOIS lookup interface.
